@@ -5,6 +5,9 @@ ALIGNEDLAYER TESTNET PROOF
 
 ```
 sudo apt update -y
+```
+
+```
 sudo apt upgrade -y
 ```
 
